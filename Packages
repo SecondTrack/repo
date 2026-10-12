@@ -130,15 +130,15 @@ Author: Second Track
 Section: Messaging
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.1.6
-Installed-Size: 14056
+Version: 0.1.7
+Installed-Size: 14080
 Name: Mesh
 Description: Encrypted messenger without a phone number – over the Tor network
-Filename: debs/de.mesh.ios_0.1.6_iphoneos-arm.deb
-Size: 13478700
-MD5sum: 82e7708f84267c9ed705c98aaeb66ce8
-SHA1: 73cd047cfb271a1b5353dbaf609494661d9d7f6c
-SHA256: 954de48f4174f2308f57c9f8609a0d856c5b80f7d230cea1dab25b7f14eb3bc6
+Filename: debs/de.mesh.ios_0.1.7_iphoneos-arm.deb
+Size: 13487652
+MD5sum: 60045d10d2ead9c499a8be9aa2e2a65e
+SHA1: 825602f1b7138a8db64ab2226ceb78414338bf90
+SHA256: f81c6b240af50d5e885a7b72e516d3f6ab9dd60890202099e8a92deb966d23b5
 Homepage: https://github.com/SecondTrack/mesh
 Icon: https://secondtrack.github.io/repo/icons/mesh.png
 
