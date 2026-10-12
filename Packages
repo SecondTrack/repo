@@ -135,10 +135,10 @@ Installed-Size: 14080
 Name: Mesh
 Description: Encrypted messenger without a phone number – over the Tor network
 Filename: debs/de.mesh.ios_0.1.9_iphoneos-arm.deb
-Size: 13488326
-MD5sum: 822da40f2dddd8b8d25ba0422c383606
-SHA1: a965736fd0375956a22e8efa78d2edd7d9573f08
-SHA256: 0961d35a72e0b4f8fadaabcb19adaa894e322b640d29248c03cfb631cb9aeddb
+Size: 13488196
+MD5sum: 93067d786e84c448456bb22dde37e1d3
+SHA1: f4b41ca4babd6c58e80dbdd378ce42f0a50fc1b8
+SHA256: 0c7a34c9386a3f3806e31330ecea1f59e5f9ee372c7c06d3911b340ce5ae620b
 Homepage: https://github.com/SecondTrack/mesh
 Icon: https://secondtrack.github.io/repo/icons/mesh.png
 
