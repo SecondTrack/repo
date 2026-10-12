@@ -7,14 +7,14 @@ Architectures: iphoneos-arm
 Components: main
 Description: New apps for old iPods – Reboot, Riff, Mesh, Tube and more
 MD5Sum:
- f528e79b32d529ee7b0cc562e66e8240 6542 Packages
- 471594072d8247efd144e36d36ab5a4d 2320 Packages.bz2
- b5f03f56b40d5cf1314ace9514cdb09d 2260 Packages.gz
+ 3fc7d4b0fa83f28fe826727b71864106 6190 Packages
+ ec8682298b4506254afea374b7a058f1 2065 Packages.bz2
+ 78933df001b0640422d4d92008841c01 2013 Packages.gz
 SHA1:
- 3755b74ef75c8c0a231cfb3f4997200125e5cdda 6542 Packages
- 82d2dc61c324bcaac4d5167fb4f523a10683bb46 2320 Packages.bz2
- 9fe8897569baeb07d9b69cce0bcd405ff4925990 2260 Packages.gz
+ 30698ef75e0ae493f45dfc144b39eb4af321e00c 6190 Packages
+ 5f09ff2a6764f0d90ab8c7d7ac4d3ecf4bba0658 2065 Packages.bz2
+ a755e60938624a1323fff0c232c11ec329e5078d 2013 Packages.gz
 SHA256:
- d36804eba781a43bba81fb12942e99e3e22577027febaf2ce5d50f04db37db1f 6542 Packages
- 1f9eb91fae3e9376eaa5ea28c8dd2d4c71f0b75f451a79611946f7ee829e42fd 2320 Packages.bz2
- d379a5efae9b5d105ae1dc7dab6342c29a2ed5098bdfba215c648f4831cbe143 2260 Packages.gz
+ e7b87eb716bc6783de1bd9d08e064263c5a0c7a8665faf1aa2b6d6473d584184 6190 Packages
+ 2db414469a94b68617984c2cf6e38f829a0e1b28a7fa690ae60b441fde2c8a3e 2065 Packages.bz2
+ 7ca67486176fa4c713125ffaf47e2ec7dac4a22a82ab86551aeeb2096c3c6d49 2013 Packages.gz

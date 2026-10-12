@@ -1,5 +1,4 @@
 Package: de.mesh.shop
-Description: Reboot – der App Store für alte iPods. Lädt, installiert und aktualisiert Apps von github.com/SecondTrack.
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -8,6 +7,7 @@ Architecture: iphoneos-arm
 Version: 0.2.16
 Installed-Size: 2284
 Name: Reboot App Store
+Description: The app store for your iPod
 Filename: debs/de.mesh.shop_0.2.16_iphoneos-arm.deb
 Size: 1621398
 MD5sum: 4d34d536db68af04adfe5563ddddc65c
@@ -17,7 +17,6 @@ Homepage: https://github.com/SecondTrack/reboot
 Icon: https://secondtrack.github.io/repo/icons/reboot.png
 
 Package: de.mesh.g2048
-Description: Das Zahlen-Puzzle
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -26,6 +25,7 @@ Architecture: iphoneos-arm
 Version: 0.1.2
 Installed-Size: 80
 Name: 2048
+Description: The number puzzle
 Filename: debs/de.mesh.g2048_0.1.2_iphoneos-arm.deb
 Size: 18014
 MD5sum: 7e50c59ee375cc82c5cb0a274de0024e
@@ -35,7 +35,6 @@ Homepage: https://github.com/SecondTrack/2048
 Icon: https://secondtrack.github.io/repo/icons/2048.png
 
 Package: de.mesh.batt
-Description: Akku-Monitor (Stand, Spannung, Strom, Temperatur, Zyklen, Gesundheit)
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -44,6 +43,7 @@ Architecture: iphoneos-arm
 Version: 0.1.3
 Installed-Size: 108
 Name: Volt
+Description: Battery monitor with stress test
 Filename: debs/de.mesh.batt_0.1.3_iphoneos-arm.deb
 Size: 31386
 MD5sum: 6bc80836a83b5e4b3f0160aa8db8aa97
@@ -53,7 +53,6 @@ Homepage: https://github.com/SecondTrack/volt
 Icon: https://secondtrack.github.io/repo/icons/volt.png
 
 Package: de.mesh.files
-Description: Dateien des iPods im WLAN per Browser verwalten (PIN-geschützt)
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -62,6 +61,7 @@ Architecture: iphoneos-arm
 Version: 1.2.4
 Installed-Size: 380
 Name: FileTransfer
+Description: Move photos & music over Wi-Fi
 Filename: debs/de.mesh.files_1.2.4_iphoneos-arm.deb
 Size: 109160
 MD5sum: ba45eaeb0f825a71f153c9e822fb2aa4
@@ -71,7 +71,6 @@ Homepage: https://github.com/SecondTrack/filetransfer
 Icon: https://secondtrack.github.io/repo/icons/filetransfer.png
 
 Package: de.mesh.diag
-Description: Geraete-Testsuite - Display, Touch, Sensoren, CPU/RAM, Speicher, Ton, Mikrofon
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -80,6 +79,7 @@ Architecture: iphoneos-arm
 Version: 0.1.3
 Installed-Size: 112
 Name: Probe
+Description: Device check in seven tests
 Filename: debs/de.mesh.diag_0.1.3_iphoneos-arm.deb
 Size: 36020
 MD5sum: 19505ca900089004fe5960f709ca0c87
@@ -89,7 +89,6 @@ Homepage: https://github.com/SecondTrack/probe
 Icon: https://secondtrack.github.io/repo/icons/probe.png
 
 Package: de.mesh.light
-Description: Helligkeitsregler mit Presets - direkt die Systemhelligkeit einstellen
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -98,6 +97,7 @@ Architecture: iphoneos-arm
 Version: 0.1.3
 Installed-Size: 80
 Name: Lux
+Description: Brightness with presets
 Filename: debs/de.mesh.light_0.1.3_iphoneos-arm.deb
 Size: 17986
 MD5sum: d02b51115a8fe31fb1d167c7665b4716
@@ -107,7 +107,6 @@ Homepage: https://github.com/SecondTrack/lux
 Icon: https://secondtrack.github.io/repo/icons/lux.png
 
 Package: de.mesh.matrix
-Description: Nativer Matrix-Chat-Client fuer iOS 6 (eigenes TLS, matrix.org)
 Maintainer: Second Track
 Author: Second Track
 Section: Social
@@ -116,6 +115,7 @@ Architecture: iphoneos-arm
 Version: 0.1.3
 Installed-Size: 672
 Name: Weave
+Description: Chat over Matrix
 Filename: debs/de.mesh.matrix_0.1.3_iphoneos-arm.deb
 Size: 323772
 MD5sum: d3d30e25c5f7398bf5bdde8cf70e4bac
@@ -125,7 +125,6 @@ Homepage: https://github.com/SecondTrack/weave
 Icon: https://secondtrack.github.io/repo/icons/weave.png
 
 Package: de.mesh.ios
-Description: Verschluesselter Nostr-Messenger fuer iPod touch 3G/4G und iPhone (iOS 5.0-6.1, ARMv7).
 Maintainer: Second Track
 Author: Second Track
 Section: Messaging
@@ -134,6 +133,7 @@ Architecture: iphoneos-arm
 Version: 0.1.6
 Installed-Size: 14056
 Name: Mesh
+Description: Encrypted messenger without a phone number – over the Tor network
 Filename: debs/de.mesh.ios_0.1.6_iphoneos-arm.deb
 Size: 13478700
 MD5sum: 82e7708f84267c9ed705c98aaeb66ce8
@@ -143,7 +143,6 @@ Homepage: https://github.com/SecondTrack/mesh
 Icon: https://secondtrack.github.io/repo/icons/mesh.png
 
 Package: de.mesh.music
-Description: Musik-Player fuer dein Spotify-Konto (iOS 6)
 Maintainer: Second Track
 Author: Second Track
 Section: Multimedia
@@ -152,6 +151,7 @@ Architecture: iphoneos-arm
 Version: 0.2.7
 Installed-Size: 1200
 Name: Riff
+Description: Music for your Spotify account
 Filename: debs/de.mesh.music_0.2.7_iphoneos-arm.deb
 Size: 586188
 MD5sum: 191f369f6be1416fd2df946a9c2d5561
@@ -161,7 +161,6 @@ Homepage: https://github.com/SecondTrack/riff
 Icon: https://secondtrack.github.io/repo/icons/riff.png
 
 Package: de.mesh.tasks
-Description: Task-Killer und RAM frei machen
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -170,6 +169,7 @@ Architecture: iphoneos-arm
 Version: 0.1.3
 Installed-Size: 144
 Name: Sweep
+Description: Free up memory
 Filename: debs/de.mesh.tasks_0.1.3_iphoneos-arm.deb
 Size: 17818
 MD5sum: b005ca96d6c086c78d82c718490376f3
@@ -179,7 +179,6 @@ Homepage: https://github.com/SecondTrack/sweep
 Icon: https://secondtrack.github.io/repo/icons/sweep.png
 
 Package: de.mesh.ytube
-Description: Videos suchen und schauen
 Maintainer: Second Track
 Author: Second Track
 Section: Utilities
@@ -188,6 +187,7 @@ Architecture: iphoneos-arm
 Version: 0.2.5
 Installed-Size: 692
 Name: Tube
+Description: Search and watch videos
 Filename: debs/de.mesh.ytube_0.2.5_iphoneos-arm.deb
 Size: 339144
 MD5sum: bafea88aa603b34c99fcf01854d67e50
