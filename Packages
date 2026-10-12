@@ -1,0 +1,197 @@
+Package: de.mesh.shop
+Description: Reboot – der App Store für alte iPods. Lädt, installiert und aktualisiert Apps von github.com/SecondTrack.
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0), dpkg
+Architecture: iphoneos-arm
+Version: 0.2.16
+Installed-Size: 2284
+Name: Reboot App Store
+Filename: debs/de.mesh.shop_0.2.16_iphoneos-arm.deb
+Size: 1621398
+MD5sum: 4d34d536db68af04adfe5563ddddc65c
+SHA1: dbd611785622a25ab9ead4da7d402145114c18cd
+SHA256: 45893dd4a19e7262e74268ac96053d5df122075130a27385e5dbf3a237ce6ff7
+Homepage: https://github.com/SecondTrack/reboot
+Icon: https://secondtrack.github.io/repo/icons/reboot.png
+
+Package: de.mesh.g2048
+Description: Das Zahlen-Puzzle
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 80
+Name: 2048
+Filename: debs/de.mesh.g2048_0.1.2_iphoneos-arm.deb
+Size: 18014
+MD5sum: 7e50c59ee375cc82c5cb0a274de0024e
+SHA1: b77e77591b86199a77db9f24838ec48fe67ce720
+SHA256: fcde9e322ca1026fc940769373cb7c6c45edcb2bf69e2a3d36e86151d4e08cec
+Homepage: https://github.com/SecondTrack/2048
+Icon: https://secondtrack.github.io/repo/icons/2048.png
+
+Package: de.mesh.batt
+Description: Akku-Monitor (Stand, Spannung, Strom, Temperatur, Zyklen, Gesundheit)
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 108
+Name: Volt
+Filename: debs/de.mesh.batt_0.1.3_iphoneos-arm.deb
+Size: 31386
+MD5sum: 6bc80836a83b5e4b3f0160aa8db8aa97
+SHA1: d5e42c22faec4105094f4296dcbeb8c1c5efae34
+SHA256: 3efd3651005cce9f4203de4aeeb1dde3369120d7adb6d17963782626a7ce0cff
+Homepage: https://github.com/SecondTrack/volt
+Icon: https://secondtrack.github.io/repo/icons/volt.png
+
+Package: de.mesh.files
+Description: Dateien des iPods im WLAN per Browser verwalten (PIN-geschützt)
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 1.2.4
+Installed-Size: 380
+Name: FileTransfer
+Filename: debs/de.mesh.files_1.2.4_iphoneos-arm.deb
+Size: 109160
+MD5sum: ba45eaeb0f825a71f153c9e822fb2aa4
+SHA1: 680f1ab4f5c78eeb2362d497baa246c67ba6a25e
+SHA256: 870467bb573511578af6daf09022200b711fbeeaf688a9fa5fa23a1a42231fbd
+Homepage: https://github.com/SecondTrack/filetransfer
+Icon: https://secondtrack.github.io/repo/icons/filetransfer.png
+
+Package: de.mesh.diag
+Description: Geraete-Testsuite - Display, Touch, Sensoren, CPU/RAM, Speicher, Ton, Mikrofon
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 112
+Name: Probe
+Filename: debs/de.mesh.diag_0.1.3_iphoneos-arm.deb
+Size: 36020
+MD5sum: 19505ca900089004fe5960f709ca0c87
+SHA1: 1ae19b444dc2d53bf1ded93e3b1d90e7b2c94480
+SHA256: bf9fcbdfc1dc040ced7d379cdd0452a1df13a6cf0ba0699f34f662ec8871f3a5
+Homepage: https://github.com/SecondTrack/probe
+Icon: https://secondtrack.github.io/repo/icons/probe.png
+
+Package: de.mesh.light
+Description: Helligkeitsregler mit Presets - direkt die Systemhelligkeit einstellen
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 80
+Name: Lux
+Filename: debs/de.mesh.light_0.1.3_iphoneos-arm.deb
+Size: 17986
+MD5sum: d02b51115a8fe31fb1d167c7665b4716
+SHA1: ee3a8a7f319f56c4d900224add12da8c0de03379
+SHA256: 91a45b10693c3315234235b9dba7044be4cc6772c35042475af3c2c4b09eec65
+Homepage: https://github.com/SecondTrack/lux
+Icon: https://secondtrack.github.io/repo/icons/lux.png
+
+Package: de.mesh.matrix
+Description: Nativer Matrix-Chat-Client fuer iOS 6 (eigenes TLS, matrix.org)
+Maintainer: Second Track
+Author: Second Track
+Section: Social
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 672
+Name: Weave
+Filename: debs/de.mesh.matrix_0.1.3_iphoneos-arm.deb
+Size: 323772
+MD5sum: d3d30e25c5f7398bf5bdde8cf70e4bac
+SHA1: 4482d90806545ef321db6e2210ef7d9a4ef41207
+SHA256: 616166ada4dc41f18624f73aa0abac869bc7c3befd009be14b12766b187651d3
+Homepage: https://github.com/SecondTrack/weave
+Icon: https://secondtrack.github.io/repo/icons/weave.png
+
+Package: de.mesh.ios
+Description: Verschluesselter Nostr-Messenger fuer iPod touch 3G/4G und iPhone (iOS 5.0-6.1, ARMv7).
+Maintainer: Second Track
+Author: Second Track
+Section: Messaging
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.6
+Installed-Size: 14056
+Name: Mesh
+Filename: debs/de.mesh.ios_0.1.6_iphoneos-arm.deb
+Size: 13478700
+MD5sum: 82e7708f84267c9ed705c98aaeb66ce8
+SHA1: 73cd047cfb271a1b5353dbaf609494661d9d7f6c
+SHA256: 954de48f4174f2308f57c9f8609a0d856c5b80f7d230cea1dab25b7f14eb3bc6
+Homepage: https://github.com/SecondTrack/mesh
+Icon: https://secondtrack.github.io/repo/icons/mesh.png
+
+Package: de.mesh.music
+Description: Musik-Player fuer dein Spotify-Konto (iOS 6)
+Maintainer: Second Track
+Author: Second Track
+Section: Multimedia
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.2.7
+Installed-Size: 1200
+Name: Riff
+Filename: debs/de.mesh.music_0.2.7_iphoneos-arm.deb
+Size: 586188
+MD5sum: 191f369f6be1416fd2df946a9c2d5561
+SHA1: 93c3b3023597fac260e5c43d659c710fed98a863
+SHA256: c593e7a10ad849785c9aa5fe4e71f5922983fd5238b1551ad3d2e077cb741844
+Homepage: https://github.com/SecondTrack/riff
+Icon: https://secondtrack.github.io/repo/icons/riff.png
+
+Package: de.mesh.tasks
+Description: Task-Killer und RAM frei machen
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 144
+Name: Sweep
+Filename: debs/de.mesh.tasks_0.1.3_iphoneos-arm.deb
+Size: 17818
+MD5sum: b005ca96d6c086c78d82c718490376f3
+SHA1: 0f165009e92ad1f94d4bbe2443f46a268089f881
+SHA256: 8f17f0e251ffa693ef6fd81c215851c7b816714d35e6c6d9cab60f8176c09c61
+Homepage: https://github.com/SecondTrack/sweep
+Icon: https://secondtrack.github.io/repo/icons/sweep.png
+
+Package: de.mesh.ytube
+Description: Videos suchen und schauen
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.2.5
+Installed-Size: 692
+Name: Tube
+Filename: debs/de.mesh.ytube_0.2.5_iphoneos-arm.deb
+Size: 339144
+MD5sum: bafea88aa603b34c99fcf01854d67e50
+SHA1: b66cb6b3342cb949892905f217cb73fa315bfdcb
+SHA256: 6f012f83441eb944570b0c0be9989cb057777cf8c32a2ecc6470e3884811ef30
+Homepage: https://github.com/SecondTrack/tube
+Icon: https://secondtrack.github.io/repo/icons/tube.png
