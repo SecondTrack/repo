@@ -202,14 +202,14 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.6.1
+Version: 0.6.2
 Installed-Size: 288
 Name: Mesh Security
 Description: Shield your jailbroken iPod
-Filename: debs/de.mesh.security_0.6.1_iphoneos-arm.deb
-Size: 83454
-MD5sum: a927572524092cbc4fbc0e25a71914f5
-SHA1: ba23aa2ece9c3fe1a1b83b347e27fc7632831052
-SHA256: 450dc90d62649bbe837cb8a8b4caa03cd5afe00f04da99a5cf57319c56775979
+Filename: debs/de.mesh.security_0.6.2_iphoneos-arm.deb
+Size: 83392
+MD5sum: 2afc3e3a170e4c62c25f46cbf96baca6
+SHA1: 95dfa835d0f85fefca22be8658af52b2f8337b34
+SHA256: 5efc66c9de77b95dc615acebd2ff15b36557d36edce06175158540b782f1d314
 Homepage: https://github.com/SecondTrack/security
 Icon: https://secondtrack.github.io/repo/icons/security.png
