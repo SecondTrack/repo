@@ -130,15 +130,15 @@ Author: Second Track
 Section: Messaging
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.1.10
-Installed-Size: 14096
+Version: 0.1.12
+Installed-Size: 14148
 Name: Mesh
 Description: Encrypted messenger without a phone number – over the Tor network
-Filename: debs/de.mesh.ios_0.1.10_iphoneos-arm.deb
-Size: 13489116
-MD5sum: f6e6ac7d8498eafbf7c186a5d0bbdf55
-SHA1: 14f888f213c2842a9c66461e2ec210ba76db08fd
-SHA256: ea1536177599f36a3e340f600662a6959cb1ab48ee9e0e736080369953e1f0c8
+Filename: debs/de.mesh.ios_0.1.12_iphoneos-arm.deb
+Size: 13518886
+MD5sum: 130bee953ceaae2f0b5427e70c2c71cc
+SHA1: 60f4e0f02fd28d233a2ad2b4fa52e4bdbd10dad0
+SHA256: a569d0bccaf0c246ddacb8a3e83a4948571653436ddc6dff8a1c5f17bbbe3c96
 Homepage: https://github.com/SecondTrack/mesh
 Icon: https://secondtrack.github.io/repo/icons/mesh.png
 
@@ -195,3 +195,21 @@ SHA1: b66cb6b3342cb949892905f217cb73fa315bfdcb
 SHA256: 6f012f83441eb944570b0c0be9989cb057777cf8c32a2ecc6470e3884811ef30
 Homepage: https://github.com/SecondTrack/tube
 Icon: https://secondtrack.github.io/repo/icons/tube.png
+
+Package: de.mesh.security
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Version: 0.6.0
+Installed-Size: 288
+Name: Mesh Security
+Description: Shield for jailbroken iPods: random password instead of alpine, all incoming ports closed, only the apps you allow go online, every connection logged.
+Filename: debs/de.mesh.security_0.6.0_iphoneos-arm.deb
+Size: 80986
+MD5sum: 792eb7cc9a4a8c6168ef19a531d8bb87
+SHA1: b3989f6c5f5c1e653d469e866d3efbfa962876d9
+SHA256: 994eb71cfe91dd9b46364f28f88aa84dc858c3ce8abf71d7a8ff67463b125740
+Homepage: https://github.com/SecondTrack/security
+Icon: https://secondtrack.github.io/repo/icons/security.png
