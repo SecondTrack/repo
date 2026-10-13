@@ -4,15 +4,15 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0), dpkg
 Architecture: iphoneos-arm
-Version: 0.2.17
+Version: 0.2.20
 Installed-Size: 2284
 Name: Reboot App Store
 Description: The app store for your iPod
-Filename: debs/de.mesh.shop_0.2.17_iphoneos-arm.deb
-Size: 1621402
-MD5sum: 7f6786b79a13a824eb4ddf8313f17cff
-SHA1: 52670830683d74a8807f1ae6a5324081678579d1
-SHA256: ed33b5b2236f80e76a6538cf6d87529ae669f4e75b995d8a656b7ea258ee5290
+Filename: debs/de.mesh.shop_0.2.20_iphoneos-arm.deb
+Size: 1623160
+MD5sum: ff0fc34694e7e59e19aa79fe3e680fb3
+SHA1: fd0f820206564ac60ff68ff02c8e4dbcdb16beb8
+SHA256: d8c21c31183d7ee69bcb3dc5585ce3c1c1503ccf5968a1fcbab3821220aee819
 Homepage: https://github.com/SecondTrack/reboot
 Icon: https://secondtrack.github.io/repo/icons/reboot.png
 
@@ -130,15 +130,15 @@ Author: Second Track
 Section: Messaging
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.1.12
+Version: 0.1.13
 Installed-Size: 14148
 Name: Mesh
 Description: Encrypted messenger without a phone number – over the Tor network
-Filename: debs/de.mesh.ios_0.1.12_iphoneos-arm.deb
-Size: 13518886
-MD5sum: 130bee953ceaae2f0b5427e70c2c71cc
-SHA1: 60f4e0f02fd28d233a2ad2b4fa52e4bdbd10dad0
-SHA256: a569d0bccaf0c246ddacb8a3e83a4948571653436ddc6dff8a1c5f17bbbe3c96
+Filename: debs/de.mesh.ios_0.1.13_iphoneos-arm.deb
+Size: 13520966
+MD5sum: 49c9c3792706bcdb192e119be1c5b1a1
+SHA1: 7bfef17de6f7d4e5d4e29fec11588ebbe4af9060
+SHA256: fb75681abbe2d2238b3a1710ec329620be403b26f382080d71de5f9d8e3902c3
 Homepage: https://github.com/SecondTrack/mesh
 Icon: https://secondtrack.github.io/repo/icons/mesh.png
 
@@ -205,7 +205,7 @@ Architecture: iphoneos-arm
 Version: 0.6.0
 Installed-Size: 288
 Name: Mesh Security
-Description: Shield for jailbroken iPods: random password instead of alpine, all incoming ports closed, only the apps you allow go online, every connection logged.
+Description: Shield your jailbroken iPod
 Filename: debs/de.mesh.security_0.6.0_iphoneos-arm.deb
 Size: 80986
 MD5sum: 792eb7cc9a4a8c6168ef19a531d8bb87
