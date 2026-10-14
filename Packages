@@ -148,15 +148,15 @@ Author: Second Track
 Section: Multimedia
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.2.8
-Installed-Size: 1200
+Version: 0.2.9
+Installed-Size: 1216
 Name: Riff
 Description: Music for your Spotify account
-Filename: debs/de.mesh.music_0.2.8_iphoneos-arm.deb
-Size: 587464
-MD5sum: a1190aad498943a8138b7152e6ce6208
-SHA1: d1bb256299ebb11343246fd2cf0876d2fc26f5ec
-SHA256: e497c2898e91045f58d9cd19506626bf1d47cced1f4509badccbadc4e0d67bc4
+Filename: debs/de.mesh.music_0.2.9_iphoneos-arm.deb
+Size: 588760
+MD5sum: 648d8de3142facced857910309d4b43d
+SHA1: cb2cf874099d9cabc33f7f9697142e31dd589c51
+SHA256: 51f2d4673d3d19beccba2be67c3c42fa4dd8202b8dd3441bea69369ef9427319
 Homepage: https://github.com/SecondTrack/riff
 Icon: https://secondtrack.github.io/repo/icons/riff.png
 
