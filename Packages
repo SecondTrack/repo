@@ -58,15 +58,15 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 1.2.4
+Version: 1.2.5
 Installed-Size: 380
 Name: FileTransfer
 Description: Move photos & music over Wi-Fi
-Filename: debs/de.mesh.files_1.2.4_iphoneos-arm.deb
-Size: 109160
-MD5sum: ba45eaeb0f825a71f153c9e822fb2aa4
-SHA1: 680f1ab4f5c78eeb2362d497baa246c67ba6a25e
-SHA256: 870467bb573511578af6daf09022200b711fbeeaf688a9fa5fa23a1a42231fbd
+Filename: debs/de.mesh.files_1.2.5_iphoneos-arm.deb
+Size: 109494
+MD5sum: 2c3dc511202789cd94aa0f0e3741ce5c
+SHA1: fdc30b7327b9b3271ee976747d6ae43e31aee570
+SHA256: 5d6a556b0fe6c1429b319040f9f2270dc9ad78dabef2f36601d79401e14317d2
 Homepage: https://github.com/SecondTrack/filetransfer
 Icon: https://secondtrack.github.io/repo/icons/filetransfer.png
 
@@ -148,15 +148,15 @@ Author: Second Track
 Section: Multimedia
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.2.7
+Version: 0.2.8
 Installed-Size: 1200
 Name: Riff
 Description: Music for your Spotify account
-Filename: debs/de.mesh.music_0.2.7_iphoneos-arm.deb
-Size: 586188
-MD5sum: 191f369f6be1416fd2df946a9c2d5561
-SHA1: 93c3b3023597fac260e5c43d659c710fed98a863
-SHA256: c593e7a10ad849785c9aa5fe4e71f5922983fd5238b1551ad3d2e077cb741844
+Filename: debs/de.mesh.music_0.2.8_iphoneos-arm.deb
+Size: 587464
+MD5sum: a1190aad498943a8138b7152e6ce6208
+SHA1: d1bb256299ebb11343246fd2cf0876d2fc26f5ec
+SHA256: e497c2898e91045f58d9cd19506626bf1d47cced1f4509badccbadc4e0d67bc4
 Homepage: https://github.com/SecondTrack/riff
 Icon: https://secondtrack.github.io/repo/icons/riff.png
 
@@ -166,15 +166,15 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.1.4
+Version: 0.1.5
 Installed-Size: 144
 Name: Sweep
 Description: Free up memory
-Filename: debs/de.mesh.tasks_0.1.4_iphoneos-arm.deb
-Size: 18642
-MD5sum: 54f20d96099d71acf3fa9c5708ab6baf
-SHA1: 20da10017665b78de996d24f61de02d07313bd72
-SHA256: b50cb2ef27d9528b624a77fa4dd74596e7a7b998f9c7423d6af15977c95eea0e
+Filename: debs/de.mesh.tasks_0.1.5_iphoneos-arm.deb
+Size: 18996
+MD5sum: 18362f8ff046a1fdd6d350f8a5be9970
+SHA1: aa4c11ca678e89ad4e1bf0e5a5df7a836d7d07ee
+SHA256: dc9916247c4b5789c8c0f0b0c4895029482d49b008770abc9351069472c060b8
 Homepage: https://github.com/SecondTrack/sweep
 Icon: https://secondtrack.github.io/repo/icons/sweep.png
 
@@ -202,14 +202,14 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.6.3
+Version: 0.6.4
 Installed-Size: 288
 Name: Mesh Security
 Description: Shield your jailbroken iPod
-Filename: debs/de.mesh.security_0.6.3_iphoneos-arm.deb
-Size: 83224
-MD5sum: d57af46a34c5106ab665f83bf5cf1756
-SHA1: 4375338670b5138c612ad9aa4b13c39023088f39
-SHA256: 46b898d3e59f2b739a279c78f650294670ff496a7830ccf34b37d05307957075
+Filename: debs/de.mesh.security_0.6.4_iphoneos-arm.deb
+Size: 83400
+MD5sum: a89fdc6848a36b1d93e968ef4e254c59
+SHA1: 097ad7a6368b9a058c7615958e98d7fcd6eaec50
+SHA256: 576f64ecb9533f1a479e73a708bde73eacdacd13014e498f089effe43fbd154f
 Homepage: https://github.com/SecondTrack/security
 Icon: https://secondtrack.github.io/repo/icons/security.png
