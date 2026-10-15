@@ -4,15 +4,15 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0), dpkg
 Architecture: iphoneos-arm
-Version: 0.2.20
-Installed-Size: 2284
+Version: 0.2.22
+Installed-Size: 2300
 Name: Reboot App Store
 Description: The app store for your iPod
-Filename: debs/de.mesh.shop_0.2.20_iphoneos-arm.deb
-Size: 1623160
-MD5sum: ff0fc34694e7e59e19aa79fe3e680fb3
-SHA1: fd0f820206564ac60ff68ff02c8e4dbcdb16beb8
-SHA256: d8c21c31183d7ee69bcb3dc5585ce3c1c1503ccf5968a1fcbab3821220aee819
+Filename: debs/de.mesh.shop_0.2.22_iphoneos-arm.deb
+Size: 1627096
+MD5sum: d5c75d75971757e6b0428f38e51c5e23
+SHA1: 28c178f4a3acbd8cece02f1594af6b21d28469a5
+SHA256: b91fa0ef72743e0705219931249ed2bf2205a827ccbb41251a9819a34c6a4bf4
 Homepage: https://github.com/SecondTrack/reboot
 Icon: https://secondtrack.github.io/repo/icons/reboot.png
 
@@ -130,15 +130,15 @@ Author: Second Track
 Section: Messaging
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.1.15
-Installed-Size: 14148
+Version: 0.1.25
+Installed-Size: 14276
 Name: Mesh
 Description: Encrypted messenger without a phone number – over the Tor network
-Filename: debs/de.mesh.ios_0.1.15_iphoneos-arm.deb
-Size: 13520390
-MD5sum: b0ce43c4f222134f9f0da69c4ba8be70
-SHA1: 160852b74546740ee65c15759bd4230e262fb627
-SHA256: 27c3c228adb28152fdb3fe8fce3ceb10d8b369c8793cf2a41a0a74626bb16cd7
+Filename: debs/de.mesh.ios_0.1.25_iphoneos-arm.deb
+Size: 13581454
+MD5sum: 9579ebd9a32f2714b59be6cef1b6cc81
+SHA1: 16eb4035212da3da63435dfbbfeb0fdcee70a839
+SHA256: 3e7c4072d684858aaaf98b24988981b3bbbbce8d96f85ef5955822f4668746e4
 Homepage: https://github.com/SecondTrack/mesh
 Icon: https://secondtrack.github.io/repo/icons/mesh.png
 
@@ -184,15 +184,15 @@ Author: Second Track
 Section: Utilities
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Version: 0.2.5
-Installed-Size: 692
+Version: 0.2.6
+Installed-Size: 708
 Name: Tube
 Description: Search and watch videos
-Filename: debs/de.mesh.ytube_0.2.5_iphoneos-arm.deb
-Size: 339144
-MD5sum: bafea88aa603b34c99fcf01854d67e50
-SHA1: b66cb6b3342cb949892905f217cb73fa315bfdcb
-SHA256: 6f012f83441eb944570b0c0be9989cb057777cf8c32a2ecc6470e3884811ef30
+Filename: debs/de.mesh.ytube_0.2.6_iphoneos-arm.deb
+Size: 340888
+MD5sum: 91b1347a3bbcfe0482edddb9e8fae936
+SHA1: ef898661069d5628a356a07e5611f0a14b868d61
+SHA256: df4b9803993ee13e79c5121e570e77af0f1a3d37cf0a88c8a0a66d8f192104d6
 Homepage: https://github.com/SecondTrack/tube
 Icon: https://secondtrack.github.io/repo/icons/tube.png
 
