@@ -5,16 +5,16 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: New apps for old iPods – Reboot, Riff, Mesh, Tube and more
+Description: Reboot – the app store for old iPods. Install Reboot, then get all apps through it.
 MD5Sum:
- a404ab1ca054854c5fcb3f6207615843 6772 Packages
- 170703e2e4ef76c1966b33d8f85ac5e9 2194 Packages.bz2
- d6419983c2f3237b5ddac3a3ebaaec35 2173 Packages.gz
+ 44500c82c15a13cdc0ef33369078f1ed 581 Packages
+ f9981f769aa9c87f961c2a8f1c669072 448 Packages.bz2
+ 3723178838710b42a78076b3c9c6e584 421 Packages.gz
 SHA1:
- 306106b726dcca1c0d5aa9d575f0cef2ac2b2b76 6772 Packages
- 3f527f2880c571cdc4edb3c318e8a0c05c07beae 2194 Packages.bz2
- 81287d733a1d60d1e761a55abba60b30f24a0ddf 2173 Packages.gz
+ 56645e776486348ea29c229d25e2579173052d3d 581 Packages
+ e7fde53ae1f19df0bcffc44d1da17c350cfaf2d6 448 Packages.bz2
+ 5739ec8bbe9c3bf83a276f2985f5d093621df44f 421 Packages.gz
 SHA256:
- 3c3baec657b71a271e8f89c885933ce60b72e4f72449b5e8503e37757d089465 6772 Packages
- 9509dcf36f12ad564832de86e53e06b2a70587c978d0cde2c3512158dd7bb355 2194 Packages.bz2
- 5790c7b6e1c493bf8549606234703a78bbe78a65f4c6e9fc8b34606a730db155 2173 Packages.gz
+ 2f8ad0a2ee99f990d56f4c8ae00180d4111c12a3d609756427a80ce18dcdcff9 581 Packages
+ 04008b6ad3211d308c2ee6578ad08b785ff3906dfd026fdebcf5a517e073e0a0 448 Packages.bz2
+ 5664d01394a43249a605ee0208b437d31853c34661a35ecb8b0ded7f7e5ef3c3 421 Packages.gz
